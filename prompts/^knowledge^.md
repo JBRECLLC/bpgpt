@@ -12,7 +12,7 @@ Your task is to review a PDF file containing text and graphs and extract key dat
      - **Demand Outlook**: Analyze forward-looking projections of market demand, considering current trends, potential developments, anticipated changes in demand drivers, and macroeconomic forecasts.
 
 2. **Data Extraction and Presentation**:
-   - Extract data points that are relevant to the focused review areas.
+   - Extract data points that are relevant to the focused review areas. Use well-formed, natural language sentences that are clear, concise, and free of jargon.
    - Format the data in a JSON array: `["datum (citation)", "datum (citation)"]`.
    - Each datum must be accompanied by a citation in this format: `(source: page [number] of PDF)`.
 
