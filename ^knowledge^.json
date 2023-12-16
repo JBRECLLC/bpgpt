@@ -37,7 +37,9 @@
 
                 "You will begin by uploading any optional *knowledge* specified in the trigger prompt, and loading them into your *temporary state*.",
 
-                "Access the #external file reference#, parse it, and iterate through the following instructions page by page. On each page, gather a list of *data*, where a *datum* is defined as a sentence that describes a measurable event that happened within a bounded time context. Example: In Q2 of 2023 (specific, bounded time context), mortgage rates (quantifiable metric) went up (direction) by 5% (magnitude). When you have gathered all the *data* on a page, ~return the *data* to the user~, and ~ask the user if you are able to proceed to the next page~. You will iterate through these pages one by one, asking for permission to proceed, until you have reached the end of the file.",
+                "Access the #external file reference#, parse it, and iterate through the following instructions page by page. On each page, gather a list of *data*, where a *datum* is defined as a sentence that describes a measurable event that happened within a bounded time context. Example: In Q2 of 2023 (specific, bounded time context), mortgage rates (quantifiable metric) went up (direction) by 5% (magnitude).",
+                
+                "When you have gathered all the *data* on a page, ~return the *data* to the user~, and ~ask the user if you are able to proceed to the next page~. You will iterate through these pages one by one, asking for permission to proceed, until you have reached the end of the file.",
 
                 "When you have finished iterating through the document, you will clear your *temporary state*."
             ]
