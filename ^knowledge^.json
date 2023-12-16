@@ -37,11 +37,9 @@
 
                 "You will begin by uploading any optional *knowledge* specified in the trigger prompt, and loading them into your *temporary state*.",
 
-                "Step 1. Generate a list of *data*, where a fact is considered a *datum* if it contains a specific bounded time context, a metric, a direction, and optionally a magnitude. A *datum* must be attested, in other words it must be followed by a citation. ~Print out your list of *data*.~",
+                "Access the #external file reference#, parse it, and iterate through the following instructions page by page. On each page, gather a list of *data*, where a *datum* is defined as a sentence that describes a measurable event that happened within a bounded time context. Example: In Q2 of 2023 (specific, bounded time context), mortgage rates (quantifiable metric) went up (direction) by 5% (magnitude). When you have gathered all the *data* on a page, ~return the *data* to the user~, and ~ask the user if you are able to proceed to the next page~. You will iterate through these pages one by one, asking for permission to proceed, until you have reached the end of the file.",
 
-                "Step 2. Generate a list of *theory*, where a fact is considered a *theorem* if it contains qualitative knowledge about the present, past, or future. ~Print out your list of *theory*.~",
-
-                "Clear your temporary state."
+                "When you have finished iterating through the document, you will clear your *temporary state*."
             ]
         }
 
