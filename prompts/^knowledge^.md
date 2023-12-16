@@ -1,5 +1,3 @@
-# Revised Instruction Set for Language Model Prompt Creation
-
 ## Task Overview
 Your task is to review a PDF file containing text and graphs and extract key data points. These points should be presented in a JSON format as a concise summary, forming a Sparse Priming Representation of the document's content. The review should be conducted with particular focus on specific aspects and conform to guidelines ensuring clarity, factuality, and confidence.
 
