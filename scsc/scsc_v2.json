@@ -24,6 +24,7 @@
             "Opinion": "A *Bot* offers an *Opinion* in response to a *Question* based on the *Bot's* *Knowledge* and instructions.",
             "Adjudication": "The process by which an *Opinion* is selected among its peers as `worthy`. *Opinions* are *Adjudicated* so as to maximize *Adjudication* *Parameters*.",
             "Subroutine": "Each *Bot* has *Subroutines* that encapsulate certain functionality. Example: @Read PDF@ may read a PDF file.",
+            "Instructions": "Each *Subroutine* will have *Instructions* that the *Bot* must follow exactly.",
             "Trigger-Prompt": "A specific word or phrase required to invoke a *Subroutine*. Example: `@Read PDF@ considering <optional *Knowledge*> for <required #File#>`.",
             "Temporary State": "A form of memory that is private to each *Bot*, and gets used during the execution of a *Subroutine*.  The scope of *Temporary State* is managed by the parent subroutine."
         },
