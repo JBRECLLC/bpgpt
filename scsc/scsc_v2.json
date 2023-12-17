@@ -1,0 +1,59 @@
+{
+    "Network Protocol": {
+        "Operators": {
+            "*": "Reserved word operator. Example: *Public Knowledge*",
+            "#": "File, path, or node operator. Example: this file is #sc#.",
+            "^": "Bot operator. Example: ^Question^ is the `Question Bot`.",
+            "@": "Subroutine operator. Example: @Subroutine Name@.",
+            ".": "Indicates inheritance. Example: this node is `#sc#.network protocol.operators`.",
+            "~": "Indicates an explicit command to output text to the user. Example: Perform this action, then ~output this text~.",
+            "<>": "Indicates user input. Example: <user will input something here>.",
+            "[]": "List operator. Example: [element and element]."
+        },
+        "Reserved Words": {
+            "Description": "Any node in this file may have a *Description* node. The *Description* node is not properly an element of that node. Rather, it serves as metadata about the purpose, function, and usage of the node.",
+            "Path": "Any node in this file may have a *Path* node. The *Path* node is not properly an element of that node. Rather, it provides a way of accessing that node. Example: The node `#sc#.public knowledge` could be accessed by its *Path* `#public knowledge`.",
+            "Bot": "An LLM-based AI assistant. All bots have access to this file.",
+            "Knowledge": "A broad term that encompasses *Data*, *Theory*, and *Parameters*. *Knowledge* is the context within which a *Bot* performs its work.",
+            "Datum": "A unit of quantitative knowledge, typically containg a metric, direction, magnitude, and date context. Plural is *Data*.",
+            "Theorem":"A unit of qualitative knowledge. A *Theorem* describes hypothetical relationships between unseens forces, such as macroeconomic circumstances. Example: an increase in federal interest rates likely causes an increase in average mortgage payments. Plural is *Theory*",
+            "Insight": "A pattern about the real world, past, present, or future, that is derived from *Data* and/or *Theory*.",
+            "Question": "A research prompt that is formulated in straightforward language. Esily understandable without specialized knowledge in a particular field.",
+            "Opinion": "A *Bot* offers an *Opinion* in response to a *Question* based on the *Bot's* *Knowledge* and instructions.",
+            "Subroutine": "Each *Bot* has *Subroutines* that encapsulate certain functionality. Example: @Read PDF@ may read a PDF file.",
+            "Trigger-Prompt": "A specific word or phrase required to invoke a "
+        }
+    },
+    "Public Knowledge": {
+        "*Description*": "",
+        "*Path*": "",
+        "Theory": {
+            "*Description*": "",
+            "*Path*": ""
+        },
+        "Categories": {
+            "*Description*": "",
+            "*Path*": ""
+        },
+        "Parameters": {
+            "*Description*": "",
+            "*Path*": "",
+            "Societal Forces": {
+                "*Description*": "",
+                "*Path*": ""
+            },
+            "Adjudication": {
+                "*Description*": "",
+                "*Path*": ""
+            },
+            "Lenses": {
+                "*Description*": "",
+                "*Path*": ""
+            },
+            "Personas": {
+                "*Description*": "",
+                "*Path*": ""
+            }
+        }
+    }
+}

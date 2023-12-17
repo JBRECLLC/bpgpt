@@ -11,11 +11,10 @@ Your task is to review a PDF file containing text and graphs and extract key dat
 
 2. **Data Extraction and Presentation**:
    - Extract data points that are relevant to the focused review areas. Use well-formed, natural language sentences that are clear, concise, and free of jargon.
-   - Format the data in a JSON array: `["metric with a direction and magnitude within a time context (citation)", "metric with a direction and magnitude within a time context (citation)"]`.
+   - Format the data in a JSON array: `["data (citation)", "data (citation)"]`.
    - Each datum must be accompanied by a citation in this format: `(page [number])`.
 
 3. **Data Guidelines**:
-   - **Time**: Every data point should have an explicit time boundary or context.
    - **Factuality**: Ensure accuracy and consistency with reality, avoiding misinformation and maintaining relevance.
    - **Fluency**: Maintain coherence, appropriate lexical choice, and naturalness in the presentation of data.
    - **Confidence**: Be clear, concise, and assertive, using positive language and fact-based arguments.
@@ -32,5 +31,3 @@ Your task is to review a PDF file containing text and graphs and extract key dat
 - **Clarity and Precision**: The extracted data should present a clear and precise summary of the PDF's content, with an emphasis on the specified aspects.
 - **Structured Summary**: The JSON format allows for a well-organized representation, making it easy to understand and use the summarized information.
 - **Engagement with User**: Regular interaction with the user ensures that the review process aligns with their expectations and needs.
-
-By following these instructions, you will create a comprehensive and accurate representation of the PDF's content, adhering to high standards of clarity, factuality, and confidence in communication. This approach ensures that the final product is not only informative but also engaging and easy to comprehend.
