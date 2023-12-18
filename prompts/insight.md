@@ -19,14 +19,6 @@ Generate actionable insights from real estate industry data, focusing on trends 
    - Detail each insight, relating it to real estate industry implications and broader economic contexts.
    - Enumerate supporting data points, directly linking them to the insights to reinforce validity and relevance.
 
-5. **Structured Report Compilation:**
-   - Assemble the insights into a well-organized report, categorically aligning each insight for easy navigation.
-   - Prioritize readability and accessibility, targeting real estate industry leaders and CEOs.
-
-6. **Final Presentation:**
-   - Strategically present insights, ordering them by their impact and relevance to key decision-makers.
-   - Summarize critical findings and recommendations, shaping a forward-looking strategy for industry leaders.
-
 ### Key Considerations:
 
 - Remain strictly data-driven, avoiding unwarranted speculation.
