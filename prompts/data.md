@@ -1,45 +1,44 @@
 ## Task Overview
-Your task is to review a PDF file containing text and graphs and extract key data points. These points should be presented in a JSON format as a concise summary, forming a Sparse Priming Representation of the document's content. The review should be conducted with particular focus on specific aspects and conform to guidelines ensuring clarity, factuality, and confidence.
+Your task is to conduct a detailed review of a PDF file containing text and graphs to extract every key data point. These points should be presented in a JSON format as a concise summary, forming a Sparse Priming Representation of the document's content. The review should be thorough, focusing on specific aspects and conforming to guidelines ensuring clarity, factuality, and confidence.
 
 ## Detailed Instructions
 
-1. **Focused Review**:
-   - When reviewing each page, consider these aspects:
-     - **Current Conditions**: Assess the current state of the market for a particular product, including supply and demand dynamics, and immediate factors impacting the market.
-     - **Demand Drivers**: Identify factors influencing product demand, like technological advancements, consumer behaviors, economic indicators, demographic trends, and regulatory changes.
-     - **Demand Outlook**: Analyze forward-looking projections of market demand, considering current trends, potential developments, anticipated changes in demand drivers, and macroeconomic forecasts.
+1. **Comprehensive Focused Review**:
+   - Methodically review each page, ensuring no relevant data point is missed.
+   - Consider these aspects:
+     - **Current Conditions**: Thoroughly assess the market state for a particular product, including all aspects of supply and demand dynamics.
+     - **Demand Drivers**: Identify every factor influencing product demand, such as technological advancements and economic indicators.
+     - **Demand Outlook**: Analyze all forward-looking projections of market demand, considering every mentioned trend and potential development.
 
-2. **Data Extraction and Presentation**:
-   - Extract data points that are relevant to the focused review areas. Use well-formed, natural language sentences that are clear, concise, and free of jargon.
-   - Format the data in a JSON array: `["data (citation)", "data (citation)"]`.
-   - Each datum must be accompanied by a citation in this format: `(page [number])`.
+2. **Thorough Data Extraction and Presentation**:
+   - Extract every data point relevant to the focused review areas. Present these points in clear, well-formed sentences.
+   - Format the data in a JSON object: `{"(Citation Number). (PDF Name, page number)":"Data point"}`.
+   - Assign a unique citation number and page reference to each data point for precise identification.
 
 3. **Data Guidelines**:
-   - **Factuality**: Ensure accuracy and consistency with reality, avoiding misinformation and maintaining relevance.
-   - **Fluency**: Maintain coherence, appropriate lexical choice, and naturalness in the presentation of data.
-   - **Confidence**: Be clear, concise, and assertive, using positive language and fact-based arguments.
+   - **Comprehensive Factuality**: Capture all data points accurately, ensuring consistency with reality.
+   - **Fluency and Coherence**: Maintain clarity and coherence in presenting the data.
+   - **Assertive Confidence**: Present data points assertively, using clear, fact-based arguments.
 
-4. **User Interaction**:
-   - After reviewing each page, confirm with the user before proceeding to the next.
-   - Continue until the entire document is reviewed.
+4. **User Interaction and Slow Iteration**:
+   - After thoroughly reviewing each page, confirm with the user before proceeding.
+   - Iterate slowly, ensuring all data points on a page are captured before moving on.
 
 5. **End Goal**:
-   - The JSON list serves as a Sparse Priming Representation, encapsulating the essential knowledge within the PDF in a structured, accessible format.
+   - Aim for a comprehensive JSON object that encapsulates all essential data within the PDF, structured and accessible.
 
 ## Outcome Expectations
 
-- **Clarity and Precision**: The extracted data should present a clear and precise summary of the PDF's content, with an emphasis on the specified aspects.
-- **Structured Summary**: The JSON format allows for a well-organized representation, making it easy to understand and use the summarized information.
-- **Engagement with User**: Regular interaction with the user ensures that the review process aligns with their expectations and needs.
-
+- **Thoroughness and Precision**: Achieve a complete and precise representation of all data points in the PDF.
+- **Detailed Structured Summary**: The JSON object will serve as a detailed and organized repository of data points.
+- **Engaged and Methodical Process**: Engage regularly with the user, ensuring a methodical and exhaustive review.
 
 ## Example Output
-[
-    "American Woodmark Corporation reported Q2 2024 net sales of $473.9 million, a decrease of 15.6% compared to the previous year (page 1)",
-    "The company experienced an 11.1% decline in new construction business and a 18.8% decline in remodel net sales, including home centers and independent dealers and distributors (page 1)",
-    "Adjusted EBITDA for Q2 2024 increased by 7% to $72.3 million, or 15.3% of net sales (page 1)",
-    "Operational improvements in manufacturing and supply chain stabilization positively impacted gross profit margin, which increased to 21.8% of net sales (page 2)",
+{
+    "1. File.pdf, page 1":"American Woodmark Corporation reported Q2 2024 net sales of $473.9 million, a decrease of 15.6% compared to the previous year.",
+    "2. File.pdf, page 1":"The company experienced an 11.1% decline in new construction business and a 18.8% decline in remodel net sales, including home centers and independent dealers and distributors.",
+    "3. File.pdf, page 2":"Adjusted EBITDA for Q2 2024 increased by 7% to $72.3 million, or 15.3% of net sales.",
     etc
-]
+}
 
-Before proceeding, please confirm that you understand the instructions. When you are sure that you understand, please ask the user if you may start processing the first page.
+Before proceeding, please confirm that you understand these instructions. When ready, ask the user for permission to start processing the first page, ensuring a slow and thorough approach.

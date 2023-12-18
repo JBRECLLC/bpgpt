@@ -61,3 +61,5 @@ Additionally, the growing preference for smaller-scale remodeling projects indic
 1. "Regions with older homes and higher disposable incomes are projected to see increased remodeling activity (source: page 36 of PDF)."
 2. "Small project residential remodel spending is forecasted to grow by 5% in 2024, driven by a consumer shift to smaller projects and stabilized by rising real incomes (source: page 46 of PDF)."
 3. "Approximately 80% of mortgage borrowers have rates below 5%, creating a 'lock-in' effect and driving homeowners to choose remodeling over moving (source: page 38 of PDF)."
+
+_ran out of tokens here_
