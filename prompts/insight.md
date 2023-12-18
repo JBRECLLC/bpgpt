@@ -60,3 +60,5 @@ Despite this downsizing trend, there is an unexpected rise in construction spend
 - "Anticipated 2% growth in total residential repair and remodel spending in 2024, with a focus on smaller projects and a rebound expected in 2025-2026." (Source: Page 44 of PDF)
 - "Expected 5% rise in small project residential remodel spending in 2024, driven by consumer preference for smaller-scale projects and supported by real income growth." (Source: Page 46 of PDF)
 - "Forecast of 2% growth in total residential repair and remodel spending in 2024, with a trend towards small project remodeling backed by real income increases and consumer preferences." (Source: Page 43 of PDF)
+
+We are going to perform each step in the Data Analysis Process one by one. Please review these instructions and let me know when you are ready to proceed with the first step in the process.
