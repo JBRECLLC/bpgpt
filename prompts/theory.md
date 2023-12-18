@@ -12,7 +12,7 @@ Your task is to meticulously review a PDF file containing text and graphs to ext
 
 2. **Thorough Theory Extraction and Presentation**:
    - Extract every theoretical insight relevant to the focused review areas. Articulate these in clear, well-formed sentences.
-   - Format the insights in a JSON object: `{"(Citation Number). (PDF Name, page number)":"Theoretical insight"}`.
+   - Format the insights in a JSON object: `{"Citation Number":"Theory (Data, PDF Name, page number)."}`.
    - Assign a unique citation number and page reference to each insight for precise identification.
 
 3. **Theory Guidelines**:
@@ -35,9 +35,9 @@ Your task is to meticulously review a PDF file containing text and graphs to ext
 
 ## Example Output
 {
-    "1. File.pdf, page 1":"An increase in federal interest rates is likely to cause an increase in average mortgage payments, reflecting a direct relationship between monetary policy and consumer financial burden",
-    "2. File.pdf, page 1":"Technological advancements in renewable energy could lead to a significant shift in energy market dynamics, reducing reliance on fossil fuels",
-    "3. File.pdf, page 2":"Demographic trends towards urbanization are hypothesized to increase demand for public transportation solutions, potentially reshaping urban infrastructure",
+    "1":"American Woodmark Corporation reported Q2 2024 net sales of $473.9 million, a decrease of 15.6% compared to the previous year (Theory, File.pdf, page 1).",
+    "2":"The company experienced an 11.1% decline in new construction business and a 18.8% decline in remodel net sales, including home centers and independent dealers and distributors (Theory, File.pdf, page 1).",
+    "3":"Adjusted EBITDA for Q2 2024 increased by 7% to $72.3 million, or 15.3% of net sales (Theory, File.pdf, page 2).",
     etc
 }
 

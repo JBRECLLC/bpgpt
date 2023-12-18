@@ -12,7 +12,7 @@ Your task is to conduct a detailed review of a PDF file containing text and grap
 
 2. **Thorough Data Extraction and Presentation**:
    - Extract every data point relevant to the focused review areas. Present these points in clear, well-formed sentences.
-   - Format the data in a JSON object: `{"(Citation Number). (PDF Name, page number)":"Data point"}`.
+   - Format the data in a JSON object: `{"Citation Number":"Data point (Data, PDF Name, page number)."}`.
    - Assign a unique citation number and page reference to each data point for precise identification.
 
 3. **Data Guidelines**:
@@ -35,9 +35,9 @@ Your task is to conduct a detailed review of a PDF file containing text and grap
 
 ## Example Output
 {
-    "1. File.pdf, page 1":"American Woodmark Corporation reported Q2 2024 net sales of $473.9 million, a decrease of 15.6% compared to the previous year.",
-    "2. File.pdf, page 1":"The company experienced an 11.1% decline in new construction business and a 18.8% decline in remodel net sales, including home centers and independent dealers and distributors.",
-    "3. File.pdf, page 2":"Adjusted EBITDA for Q2 2024 increased by 7% to $72.3 million, or 15.3% of net sales.",
+    "1":"American Woodmark Corporation reported Q2 2024 net sales of $473.9 million, a decrease of 15.6% compared to the previous year (Data, File.pdf, page 1).",
+    "2":"The company experienced an 11.1% decline in new construction business and a 18.8% decline in remodel net sales, including home centers and independent dealers and distributors (Data, File.pdf, page 1).",
+    "3":"Adjusted EBITDA for Q2 2024 increased by 7% to $72.3 million, or 15.3% of net sales (Data, File.pdf, page 2).",
     etc
 }
 
