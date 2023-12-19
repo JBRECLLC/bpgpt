@@ -22,3 +22,5 @@
    - **Relevance:** Ensure all topics are relevant to the audience's needs. Consider macroecnomics, demography, manufacturing, sociology, supply chain, financial markets, labor markets, real estate markets, and technological innovation.
 
 **Once you have identified a range of research topics, we will use them as a springboard for deeper analysis in the following steps. Let's focus on generating these research topics with precision and relevance.**
+
+**We are currently generating content for the "Current Conditions" Section of the report, so your Research Topics need to consider "Current Conditions"**

@@ -1,25 +1,27 @@
 ## **Prompt 5 - Generate Insight Explanations for Current Conditions:**
 
-**Building upon the refined patterns from the previous step, your task now is to develop detailed explanations for each insight. These explanations should be insightful, data-driven, and relevant to our 'Building Products Customers' persona.**
+**Building upon the refined patterns from the previous step, your task now is to develop detailed explanations for each pattern.  These explanations should be insightful, data-driven, and relevant to our 'Building Products Customers' persona. After this step, each pattern will be called "Insight".**
 
 **1. Introduction to Insight Explanations:**
-   - **Objective:** To expand each identified insight into a detailed and coherent narrative.
-   - **Focus:** Articulate how each insight connects macroeconomic events, consumer behaviors, and demand trends in the building products industry.
+   - **Objective:** To expand each refined pattern into a detailed and coherent narrative.
+   - **Focus:** Articulate how each refined pattern connects macroeconomic events, consumer behaviors, and demand trends in the building products industry.
+   - **Outcome:** Refined patterns will become "Insights".
 
 **2. Detailed Explanations for Each Insight:**
-   - **Task:** For each insight derived from the refined patterns, provide a comprehensive explanation.
-   - **Depth:** Each explanation should encompass the narrative arc from macroeconomic events to consumer behaviors, culminating in demand trends.
+   - **Task:** For each Insight derived from the refined patterns, provide a comprehensive 3-5 paragraph expansion.
+   - **Depth:** Each expansion should encompass the narrative arc from macroeconomic events to consumer behaviors, culminating in demand trends. It should expound data points in detail, and apply the Product Categories and Societal Forces.
 
 **3. Data-Driven Narratives:**
-   - **Foundation:** Base your explanations on the "Data Points" provided, avoiding speculation.
-   - **Evidence:** Cite specific "Data Points" as evidence to support each part of your narrative.
+   - **Foundation:** Base your explanations on the "Data Points" provided, avoiding unwarranted speculation.
+   - **Evidence:** Seamlessly weave in specific "Data Points" as evidence  to support each part of your narrative, but do not refer to the "Citation ID" specifically.  If you quote a "Data Point" verbatim (encouraged), be sure to cite it using the Data Point's original location.
 
-**4. Maintaining Verbatim References:**
-   - **Accuracy:** Include verbatim references to the supporting "Data Points" for each explanation.
-   - **Relevance:** Ensure that the data referenced is directly relevant to the insight being explained.
+**4. Maintaining Accuracy:**
+   - **Accuracy:** Ensure that the narrative expansion relies only on the supporting data points, not extraneous hallucinated material.
+   - **Relevance:** Ensure that the data point referenced is directly relevant to the insight being explained.
+   - **Previous Work:** <<<!!!INPUT COMPRESSED WORK HERE!!!>>
 
 **5. Intermediate Work Output:**
-   - **Format:** Generate a separate detailed explanation for each insight. Your detailed explanation should be 3-5 paragraphs in length, drawing extensively on everything we have discussed so far, as well as the attached "Data Points" file.
+   - **Format:** Generate a separate detailed explanation for each insight. Your detailed explanation should be 3-5 paragraphs in length, drawing extensively on Product Categories and Societal Forces, as well as the attached "Data Points" file.
    - **Content:** Include a coherent narrative that is both informative and engaging.
 
 **6. Emphasis on Clarity and Coherence:**

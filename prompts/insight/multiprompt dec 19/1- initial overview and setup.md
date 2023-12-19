@@ -1,4 +1,4 @@
-**Hello, I am undertaking a project to create a comprehensive report for 'Building Products Customers' in the real estate industry. Your role is vital in crafting insights and analyses for this report.**
+**I am undertaking a project to create a comprehensive report for 'Building Products Customers' in the real estate industry. Your role is vital in crafting insights and analyses for this report.**
 
 ## **Prompt 1 - Project Overview and Objective:**
 
