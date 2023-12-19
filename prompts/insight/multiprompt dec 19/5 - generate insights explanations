@@ -4,32 +4,45 @@
 
 **1. Introduction to Insight Explanations:**
    - **Objective:** To expand each refined pattern into a detailed and coherent narrative.
-   - **Focus:** Articulate how each refined pattern connects macroeconomic events, consumer behaviors, and demand trends in the building products industry.
+   - **Focus:** Articulate how each refined pattern connects to various Societal Forces and Product Categories.
    - **Outcome:** Refined patterns will become "Insights".
 
 **2. Detailed Explanations for Each Insight:**
    - **Task:** For each Insight derived from the refined patterns, provide a comprehensive 3-5 paragraph expansion.
    - **Depth:** Each expansion should encompass the narrative arc from macroeconomic events to consumer behaviors, culminating in demand trends. It should expound data points in detail, and apply the Product Categories and Societal Forces.
 
-**3. Data-Driven Narratives:**
+**3. Narratives Characteristics:**
    - **Foundation:** Base your explanations on the "Data Points" provided, avoiding unwarranted speculation.
-   - **Evidence:** Seamlessly weave in specific "Data Points" as evidence  to support each part of your narrative, but do not refer to the "Citation ID" specifically.  If you quote a "Data Point" verbatim (encouraged), be sure to cite it using the Data Point's original location.
-
-**4. Maintaining Accuracy:**
+   - **Evidence:** Seamlessly weave in specific "Data Points" as evidence  to support each part of your narrative, but do not refer to the "Citation ID" specifically.  It is encouraged that you incorporate a quote from a "Data Point" verbatim. When you do so, be sure to cite the source using the Data Point's original location.
    - **Accuracy:** Ensure that the narrative expansion relies only on the supporting data points, not extraneous hallucinated material.
-   - **Relevance:** Ensure that the data point referenced is directly relevant to the insight being explained.
-   - **Previous Work:** <<<!!!INPUT COMPRESSED WORK HERE!!!>>
+   - **Business Decisions:** The audience should be able to make business decisions as a result of this Insight. 
+   - **Relevance:** Find factual ways of integrating Product Category specific patterns into the broader narrative.
+
+**4. Previous Work:**
+   - <<<!!!INPUT COMPRESSED WORK HERE!!!>>
 
 **5. Intermediate Work Output:**
    - **Format:** Generate a separate detailed explanation for each insight. Your detailed explanation should be 3-5 paragraphs in length, drawing extensively on Product Categories and Societal Forces, as well as the attached "Data Points" file.
    - **Content:** Include a coherent narrative that is both informative and engaging.
 
-**6. Emphasis on Clarity and Coherence:**
+**6. Voice and Tone:**
    - **Clarity:** Ensure that each explanation is clear and easy to understand.
    - **Coherence:** Maintain a logical flow in your narrative, linking data points cohesively.
+   - **Value add:** Consistently drive for information gain and value add when crafting this narrative. The audience is looking for information that they cannot find anywhere else, that sets them apart from their competition, and that they would be at a substantial disadvantage without.
+   - **Confidence:** Use language that is assertive, confident, and actively voiced.
 
-**7. Data-Backed Analysis:**
-   - **Analytical Rigor:** Approach each explanation with a critical eye, ensuring that this analysis is grounded in the data points.
+**7. Constraints:**
    - **Avoiding Speculation:** Steer clear of assumptions or speculations not supported by the data points.
+   - **Referring to Meta Analyses:** The user does not need to know that this section is called an Insight and that it was derived from Data Point. Do not mention the internal mechanics of how this report was created.
+
+**8. Example Output:**
+Following the onset of the COVID-19 pandemic, household preferences have shifted towards an expansion of outdoor living spaces. This shift is "driving spending on outdoor living products such as decks and porches" (Report.pdf, page 36). During the pandemic, homeowners spent a large portion of their time at home, a trend that has continued beyond the end of the pandemic. Two-thirds or more of young and family homeowners say that the pandemic has made their outdoor spaces more important to them. 
+
+Higher home prices and smaller square footage per home have also led to an increased valuation of outdoor living. Homeowners are substituting indoor square footage for comfortable outdoor space, leading to an increase in purchases of decks and porches. 30% of urban homeowners would trade indoor space for a larger outdoor space. 
+
+Rising interest rates are creating a lock-in effect where homeowners with low-rate mortgages are unlikely to move. Homeowners staying in the same home for longer encourages more upgrades to existing homes. Further, "XX% of decks and porches installed were made to homes within 2 to 4 years of their purchase date, as opposed to XX% in 2019" (Report2.pdf, page 95).
+
+Companies in the Decks and Porches sector should anticipate needing to increas production capabilities. (more things to anticipate)
+
 
 **Your ability to transform these insights into comprehensive and data-backed explanations is key to the value of our report. Let's dive deep into each insight individually, crafting narratives that illuminate the trends and patterns relevant to the 'Building Products Customers' persona.  Let me know when you are ready to begin with the first insight.**
