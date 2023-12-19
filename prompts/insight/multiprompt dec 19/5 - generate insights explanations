@@ -4,7 +4,7 @@
 
 **1. Introduction to Insight Explanations:**
    - **Objective:** To expand each refined pattern into a detailed and coherent narrative.
-   - **Focus:** Articulate how each refined pattern connects to various Societal Forces and Product Categories.
+   - **Focus:** Articulate how each refined pattern connects to Societal Forces and Product Categories.
    - **Outcome:** Refined patterns will become "Insights".
 
 **2. Detailed Explanations for Each Insight:**
@@ -12,11 +12,11 @@
    - **Depth:** Each expansion should encompass the narrative arc from macroeconomic events to consumer behaviors, culminating in demand trends. It should expound data points in detail, and apply the Product Categories and Societal Forces.
 
 **3. Narratives Characteristics:**
-   - **Foundation:** Base your explanations on the "Data Points" provided, avoiding unwarranted speculation.
+   - **Foundation:** Base your explanations on the "Data Points" provided.
    - **Evidence:** Seamlessly weave in specific "Data Points" as evidence  to support each part of your narrative, but do not refer to the "Citation ID" specifically.  It is encouraged that you incorporate a quote from a "Data Point" verbatim. When you do so, be sure to cite the source using the Data Point's original location.
-   - **Accuracy:** Ensure that the narrative expansion relies only on the supporting data points, not extraneous hallucinated material.
    - **Business Decisions:** The audience should be able to make business decisions as a result of this Insight. 
    - **Relevance:** Find factual ways of integrating Product Category specific patterns into the broader narrative.
+   - **Healthy Speculation:** Try to anticipate speculatory product interactions as a result of the finer points in this Insight.
 
 **4. Previous Work:**
    - <<<!!!INPUT COMPRESSED WORK HERE!!!>>
@@ -26,14 +26,10 @@
    - **Content:** Include a coherent narrative that is both informative and engaging.
 
 **6. Voice and Tone:**
-   - **Clarity:** Ensure that each explanation is clear and easy to understand.
-   - **Coherence:** Maintain a logical flow in your narrative, linking data points cohesively.
+   - **Clarity:** Ensure that each explanation is clear and easy to understand. Adopt a prosaic tone, avoid flowerly or stilted language. Avoid SAT words. Opt for a simple, direct vocabulary.
+   - **Coherence:** Maintain a logical flow in your narrative, linking supporting Data Points cohesively.
    - **Value add:** Consistently drive for information gain and value add when crafting this narrative. The audience is looking for information that they cannot find anywhere else, that sets them apart from their competition, and that they would be at a substantial disadvantage without.
    - **Confidence:** Use language that is assertive, confident, and actively voiced.
-
-**7. Constraints:**
-   - **Avoiding Speculation:** Steer clear of assumptions or speculations not supported by the data points.
-   - **Referring to Meta Analyses:** The user does not need to know that this section is called an Insight and that it was derived from Data Point. Do not mention the internal mechanics of how this report was created.
 
 **8. Example Output:**
 Following the onset of the COVID-19 pandemic, household preferences have shifted towards an expansion of outdoor living spaces. This shift is "driving spending on outdoor living products such as decks and porches" (Report.pdf, page 36). During the pandemic, homeowners spent a large portion of their time at home, a trend that has continued beyond the end of the pandemic. Two-thirds or more of young and family homeowners say that the pandemic has made their outdoor spaces more important to them. 
