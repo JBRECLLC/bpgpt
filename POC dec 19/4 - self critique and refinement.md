@@ -1,4 +1,4 @@
-## **Prompt 4 - Self-Critique and Refinement of Emergent Patterns:**
+## **Stage 4 - Self-Critique and Refinement of Emergent Patterns:**
 
 **Having identified patterns in the 'Current Conditions' section, our next step is to critically evaluate these findings. This phase of self-reflection and refinement is key to ensuring the depth and accuracy of our insights for the 'Building Products Customers' persona.**
 

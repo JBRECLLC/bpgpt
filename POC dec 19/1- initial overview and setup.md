@@ -1,6 +1,6 @@
 **I am undertaking a project to create a comprehensive report for customers in the real estate industry. Your role is vital in crafting insights and analyses for this report.**
 
-## **Prompt 1 - Project Overview and Objective:**
+## **Stage 1 - Project Overview and Objective:**
 
 **1. Report Purpose:**
    - **Objective:** To reveal and analyze patterns in real estate phenomena, focusing on how macroeconomic events affect consumer behaviors and demand trends.
@@ -33,6 +33,8 @@
    - **Speculation:** The user will tell you what types of speculation to engage in.
 
 **7. Inputs to gather at this stage:**
+   - **Report Section:** Ask the user which "Report Section" we will start in, along with a description of that "Report Section"
    - **Audience Persona:** Ask the user for this report's "Audience Persona", which should include the audience's key interests and their goals.
+   - **Optional Knowledge:** Ask the user for any "Knowledge" that you should apply to the following steps. This information is optional, and may include Building Product Categories, Unattested Theory, or Definitions. 
 
 **Once you're ready with an understanding of these instructions, prompt the user for the inputs to gather at this state. Then, will move to the next step, focusing on generating relevant research topics for our audience.**

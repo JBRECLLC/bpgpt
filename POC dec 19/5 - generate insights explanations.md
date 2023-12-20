@@ -1,4 +1,4 @@
-## **Prompt 5 - Generate Insight Explanations for Current Conditions:**
+## **Stage 5 - Generate Insight Explanations for Current Conditions:**
 
 **Building upon the refined patterns from the previous step, your task now is to develop detailed explanations for each pattern.  These explanations should be insightful, data-driven, and relevant to our 'Building Products Customers' persona. After this step, each pattern will be called "Insight".**
 
