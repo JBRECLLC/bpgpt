@@ -1,0 +1,1 @@
+Are there any "Patterns" in this list that are either vague, or don't directly address how your "Audience Persona" should make business decisions? If so, please send a list of revised "Patterns".

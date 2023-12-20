@@ -1,6 +1,6 @@
 ## **Stage 2 - Request for Research Topics:**
 
-**Our next step in developing the detailed real estate report for our "Audience Persona" is to identify key research topics. Your work at this step will shape the foundational questions of our analysis.**
+**Our next step in developing the detailed real estate report for our "Audience Persona" is to identify key research topics. Your work at this step will shape the foundational questions of our analysis. The output of this stage is a list of "Research Topics".**
 
 **1. Purpose of Research Topics:**
    - **Objective:** To uncover specific and actionable research topics or questions.
@@ -11,9 +11,7 @@
    - **Actionable Questions:** Formulate clear, concise research questions that directly address the needs and interests of the "Audience Persona".
 
 **3. Output from Previous Stages:**
-   - **Report Section:** <<<!!! INSERT SPR REPORT SECTION HERE !!!>>>
-   - **Audience Persona:** <<<!!! INSERT SPR AUDIENCE PERSONA HERE !!!>>>
-   - **Optional Knowledge:** <<<!!! INSERT SPR OPTIONAL KNOWLEDGE HERE !!!>>>
+   - **Stage 1:** <<<!!! INCLUDE SPR FROM STAGE 1 !!!>>>
 
 **4. Output Expectations for this Stage:**
    - **Intermediate Work:** Your output at this stage should be a list of the 10 most impactful research topics, optimizing for relevance and information-gain.
@@ -23,9 +21,9 @@
    - **Innovative Topics:** Feel free to be creative in identifying unique and insightful topics.
    - **Relevance:** Ensure all research topics are relevant to the "Audience Persona" and the "Report Section". Consider macroecnomics, demography, manufacturing, sociology, supply chain, financial markets, labor markets, real estate markets, and technological innovation.
 
-**7. Inputs to gather at this stage:**
+**7. Inputs to gather at the end of this stage:**
    - **Data Points Document:** Ask the user to provide a JSON document containing the "Data Points" you will use in the next step.
 
-**We will use the Research Topics you provide as a springboard for deeper analysis in the following steps. Let's focus on generating these research topics with precision and relevance.**
+**We will use the "Research Topics" you provide as a springboard for deeper analysis in the following steps. Let's focus on generating these research topics with precision and relevance.**
 
-**Gather your required inputs.**
+**After you have provided your "Research Topics", prompt the user for the required inputs.**
